@@ -5,7 +5,7 @@
 	/*Fontes*/
 
  	@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
-	html,body{
+	html,body,main{
 		font-family: 'Outfit', sans-serif;
 		height: 100%;
 		background-color:hsl(212, 45%, 89%);
