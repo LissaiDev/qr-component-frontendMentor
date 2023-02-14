@@ -41,5 +41,5 @@ It was a good project to recap some concents and go back to the basics.
 ## Author
 
 - Website - [lissaidev](https://www.lissaidev.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/lissaidev)
+- Frontend Mentor - [LissaiDev](https://www.frontendmentor.io/profile/lissaidev)
 
